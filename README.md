@@ -1,3 +1,7 @@
+# Demo
+![](loader.gif)
+
+
 # Usage
 
 For use in Vue
