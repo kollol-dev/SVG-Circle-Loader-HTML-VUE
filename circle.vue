@@ -4,7 +4,7 @@
       style="width: 50px; margin: 0 auto"
       x="0px"
       y="0px"
-      viewBox="0 0 80 80"
+      viewBox="0 0 100 100"
       enable-background="new 0 0 0 0"
       xml:space="preserve"
     >
