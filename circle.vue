@@ -1,5 +1,5 @@
 <template>
-  <div style="width: 100%; text-align: center">
+  <div style="width: 100%; height: 100%; text-align: center">
     <svg
       style="width: 50px; margin: 0 auto"
       x="0px"
